@@ -1,0 +1,6 @@
+signalforge-sec-ingestion/
+  .github/
+    workflows/
+      sec_ingestion.yml
+  sec_ingest.py
+  requirements.txt
